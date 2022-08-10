@@ -1,0 +1,15 @@
+D:\5. GIT\Programming_lesson7\Homework_lesson7\bin\Debug\net6.0\Homework_lesson7.exe
+D:\5. GIT\Programming_lesson7\Homework_lesson7\bin\Debug\net6.0\Homework_lesson7.deps.json
+D:\5. GIT\Programming_lesson7\Homework_lesson7\bin\Debug\net6.0\Homework_lesson7.runtimeconfig.json
+D:\5. GIT\Programming_lesson7\Homework_lesson7\bin\Debug\net6.0\Homework_lesson7.dll
+D:\5. GIT\Programming_lesson7\Homework_lesson7\bin\Debug\net6.0\Homework_lesson7.pdb
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.csproj.AssemblyReference.cache
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.GeneratedMSBuildEditorConfig.editorconfig
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.AssemblyInfoInputs.cache
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.AssemblyInfo.cs
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.csproj.CoreCompileInputs.cache
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.dll
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\refint\Homework_lesson7.dll
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.pdb
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\Homework_lesson7.genruntimeconfig.cache
+D:\5. GIT\Programming_lesson7\Homework_lesson7\obj\Debug\net6.0\ref\Homework_lesson7.dll
